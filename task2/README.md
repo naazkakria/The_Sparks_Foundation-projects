@@ -12,4 +12,4 @@ K-means is a centroid-based algorithm, or a distance-based algorithm, where we c
 #### 3. CREATING THE KMEANS CLASSIFIER
 #### 4. PLOTING THE CLUSTERS
 #### 5. Adding the prediction to the dataset
-#### 6. DATA VISUALISATION using different graphs
+#### 6. DATA VISUALISATION USING DIFFERENT GRAPHS
